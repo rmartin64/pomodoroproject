@@ -1,3 +1,5 @@
+Pomodoro Clock that allows users to choose a session time and break time. After the session expires, a break begins, and an alarm sounds. After each break, a new session begins.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
