@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+#wrapper {
+  width: 23rem;
+
+}
+#clockface {
+  border: solid #CDD5E2 0.5rem;
+border-radius: 2rem;
+}
+#timer-label {
+  font-size: 2rem;
+  color: #CDD5E2;
+}
+#time-left {
+  font-size: 4rem;
+  color: #CDD5E2;
+}
+
+#break-length, #session-length, #break-label, #session-label {
+  color: #CDD5E2;
+}
+
+.btn {
+  font-size: 1.5rem;
+  padding-right: 1.8rem;
+background-color: #413E60;
+color: #CDD5E2;
+}
+.btn:focus {
+  box-shadow: none;
+}
